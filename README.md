@@ -1,7 +1,7 @@
 Fullscreen Document Details Alfresco Share AMP module
 =====================================================
 
-If you pass the query string parameter "fullscreen=1" to the document details
+If you pass the query string parameter `fullscreen=1` to the document details
 page, it will automatically open the PdfJs previewer in fullscreen mode when the
 page loads.
 
